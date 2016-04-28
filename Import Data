@@ -1,0 +1,10 @@
+
+## Libraries needed
+
+library(phyloseq); packageVersion("phyloseq")
+library(ggplot2); packageVersion("ggplot2")
+library(reshape2); packageVersion("reshape2")
+
+## Set working directory
+setwd("/Users/jcw/polybox/GDC/GDC_Projects/P328/Run34_ALL")
+getwd()
